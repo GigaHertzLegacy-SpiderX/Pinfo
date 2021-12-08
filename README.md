@@ -10,7 +10,7 @@
 
 
 ## Installation
-###  Linux Distro or Termux- - -
+###  Linux Distro - - -
 
 ```sh
  git clone https://github.com/GigaHertzLegacy-SpiderX/Pinfo.git
