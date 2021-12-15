@@ -10,13 +10,6 @@
 
 
 ## Installation
-###  Linux Distro - - -
-
-```sh
- git clone https://github.com/GigaHertzLegacy-SpiderX/Pinfo.git
- cd Pinfo
- pip install -r requirements.txt 
-```
 
 ### Windows - - - 
 
