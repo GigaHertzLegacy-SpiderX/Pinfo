@@ -8,6 +8,10 @@
 - Delete Exif-data From Image
 - It's totally safe, no need to upload your photo anywhere
 
+![Screenshot (362)](https://user-images.githubusercontent.com/85947756/146396581-798d8fe8-60d9-416b-a01b-2bd90fd26788.png)
+
+![Screenshot (363)](https://user-images.githubusercontent.com/85947756/146395820-65a70a07-753f-4153-8d95-363fcb75344b.png)
+
 
 ## Installation
 
@@ -27,6 +31,7 @@
 | ExifRead | [ Version == 2.3.2 |
 | Pillow |  [Version == 8.4.0 |
 
+Video Link : ( https://youtu.be/l8uVd-2HVpU )
 
 ## Development 
 
