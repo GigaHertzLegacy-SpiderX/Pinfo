@@ -29,7 +29,7 @@
 ## Dependencies
 
 | ExifRead | [ Version == 2.3.2 |
-| Pillow |  [Version == 9.0.0 |
+| Pillow |  [Version == 9.1.0 |
 
 Video Link : ( https://youtu.be/l8uVd-2HVpU )
 
